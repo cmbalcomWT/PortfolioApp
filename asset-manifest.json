@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PortfolioApp/static/css/main.6ab95021.css",
+    "main.js": "/PortfolioApp/static/js/main.70bd0412.js",
+    "static/media/topsail.png": "/PortfolioApp/static/media/topsail.1f78b01f93fae0188ca1.png",
+    "static/media/portfolio500.png": "/PortfolioApp/static/media/portfolio500.463a78ffb87360566bdd.png",
+    "static/media/itMe.jpg": "/PortfolioApp/static/media/itMe.d670301f26c770d39497.jpg",
+    "static/media/mealPlan500.png": "/PortfolioApp/static/media/mealPlan500.6e21db54d71fefc3732d.png",
+    "index.html": "/PortfolioApp/index.html",
+    "main.6ab95021.css.map": "/PortfolioApp/static/css/main.6ab95021.css.map",
+    "main.70bd0412.js.map": "/PortfolioApp/static/js/main.70bd0412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab95021.css",
+    "static/js/main.70bd0412.js"
+  ]
+}
